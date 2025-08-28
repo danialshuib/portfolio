@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Danial Shuib | Portfolio</title>
-   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
   <style>
  /* ===== Reset & Base ===== */
 * {
@@ -12,7 +12,7 @@
 }
 body {
   margin: 0;
-  background-color: #121212; /* Dark grey instead of navy */
+  background-color: #121212; /* Dark background */
   color: #e0e0e0;
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
@@ -149,6 +149,23 @@ section p {
   max-width: 300px;
 }
 
+/* ===== Timeline ===== */
+.timeline {
+  margin-top: 30px;
+}
+.timeline h3 {
+  color: #ff6f61;
+  margin-bottom: 10px;
+}
+.timeline ul {
+  list-style: none;
+  padding-left: 20px; /* indent nicely */
+  color: #b0b0b0;
+}
+.timeline li {
+  margin-bottom: 8px;
+}
+
 /* ===== Contact ===== */
 #contact p {
   font-size: 1.1rem;
@@ -156,6 +173,7 @@ section p {
 }
 #contact a {
   font-weight: 600;
+  color: #ff6f61;
 }
 
 /* ===== Footer ===== */
@@ -201,11 +219,28 @@ footer {
 
   <section id="about">
     <h2>About Me</h2>
+
+  <!-- Profile image -->
+  <div style="text-align:center; margin-bottom:20px;">
+    <img src="me.jpg" alt="Danial Shuib" 
+         style="width:150px; height:150px; border-radius:50%; border:2px solid #ff6f61;">
+  </div>
+
     <p>
       I'm currently studying Diploma in Computer Science and Mathematics at UiTM Kedah.<br />
       I have a CGPA of 3.16. I love developing websites and applying logic and mathematical reasoning in problem solving.
     </p>
-  </section>
+
+   <!-- Timeline -->
+  <div class="timeline">
+    <h3>Timeline</h3>
+    <ul>
+      <li>📚 <strong>2023 - Present</strong> : Diploma in Computer Science & Mathematics, UiTM Kedah</li>
+      <li>💻 <strong>2024</strong> : Built To-Do Web App & Math Quiz Project</li>
+      <li>🐍 <strong>2025</strong> : Python Projects (Calculator, CLI To-Do List)</li>
+    </ul>
+  </div>
+</section>
 
   <section id="skills">
     <h2>Skills</h2>
@@ -231,7 +266,6 @@ footer {
       <a href="https://github.com/danialshuib/todo-list" target="_blank">GitHub</a>
     </div>
 
-
     <div class="project-card">
       <h3>Todo App</h3>
       <p>A simple Todo List app built with HTML, CSS & JavaScript—manage tasks with ease.</p>
@@ -242,15 +276,15 @@ footer {
     <div class="project-card">
       <h3>Portfolio Website</h3>
       <p>My personal portfolio showcasing my projects and skills.</p>
-      <a href="#" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-      <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      <a href="https://github.com/danialshuib/portfolio" target="_blank">GitHub</a> | 
+      <a href="https://danialshuib.github.io/portfolio/" target="_blank">Live Demo</a>
     </div>
 
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:danial@email.com">danial@email.com</a></p>
+    <p>Email: <a href="mailto:dnlshuib@gmail.com">dnlshuib@gmail.com</a></p>
     <p><a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume (optional)</a></p>
   </section>
 
