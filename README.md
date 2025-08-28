@@ -31,7 +31,7 @@ My personal portfolio site (this repo).
 
 ## 📬 Contact Me
 
-- Email: [danial@email.com](mailto:dnlshuib@email.com)  
+- Email: [dnlshuib@email.com](mailto:dnlshuib@email.com)  
 - GitHub: [@danialshuib](https://github.com/danialshuib)
 
 ---
