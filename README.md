@@ -24,13 +24,19 @@ Here are some of the projects featured in my portfolio:
 
 ## 📫 Contact
 - Email: [dnlshuib@email.com](mailto:danial@email.com)  
-- LinkedIn: [linkedin.com/in/danialshuib/] (https://www.linkedin.com/in/danialshuib/)
+- LinkedIn: (https://www.linkedin.com/in/danialshuib/)
 - GitHub: [github.com/danialshuib](https://github.com/danialshuib)
 
 ---
 
 ### 🌐 Live Demo
-👉 You can view the live version of this portfolio here: **[GitHub Pages link will go here]**
+# Portfolio Website
+
+This is my personal portfolio showcasing my projects, skills, and experience.
+
+- 🌐 **Live Demo:** [View here](https://danialshuib.github.io/portfolio/)
+- 📂 **Repository:** [Source Code](https://github.com/danialshuib/portfolio)
+
 
 ---
 
