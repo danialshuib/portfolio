@@ -23,7 +23,7 @@ Here are some of the projects featured in my portfolio:
 - JavaScript  
 
 ## 📫 Contact
-- Email: [danial@email.com](mailto:danial@email.com)  
+- Email: [danial@email.com](mailto:dnlshuib@email.com)  
 - LinkedIn: *(optional – add if you have one)*  
 - GitHub: [github.com/danialshuib](https://github.com/danialshuib)
 
