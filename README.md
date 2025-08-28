@@ -1,42 +1,38 @@
-# 🌙 Danial Shuib | Portfolio Website
+# 🌐 Danial Shuib | Portfolio
 
-This is my **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
-It showcases my projects, skills, and ways to get in touch with me.
+This is my personal portfolio website showcasing my projects, skills, and experience.  
+Built with **HTML, CSS, and JavaScript**, designed to be clean, dark, and minimalist.  
 
-## 🔥 Features
-- Dark & minimalist design  
-- Smooth scrolling navigation  
-- Project showcase with GitHub and Live Demo links  
-- Skills and About Me sections  
-- Contact section with email & resume link  
-
-## 📂 Projects Highlighted
-Here are some of the projects featured in my portfolio:
-
-- [📘 To-Do List](https://github.com/danialshuib/todo-list) – A simple task management app.  
-- [🧮 Calculator](https://github.com/danialshuib/calculator) – A basic calculator built with Python.  
-- [❓ Math Quiz App](#) – A web app that generates random math quizzes.  
-
-## 🚀 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript  
-
-## 📫 Contact
-- Email: [dnlshuib@email.com](mailto:danial@email.com)  
-- LinkedIn: (https://www.linkedin.com/in/danialshuib/)
-- GitHub: [github.com/danialshuib](https://github.com/danialshuib)
+- 🎨 **Live Demo:** [View Portfolio](https://danialshuib.github.io/portfolio/)  
+- 📂 **Repository:** [Source Code](https://github.com/danialshuib/portfolio)
 
 ---
 
-### 🌐 Live Demo
-# Portfolio Website
+## 🚀 Projects
 
-This is my personal portfolio showcasing my projects, skills, and experience.
+Here are some of the projects featured in my portfolio:
 
-- 🌐 **Live Demo:** [View here](https://danialshuib.github.io/portfolio/)
-- 📂 **Repository:** [Source Code](https://github.com/danialshuib/portfolio)
+### 🧮 Calculator  
+A simple web-based calculator built with Python.  
+- 🔗 [Live Demo](https://danialshuib.github.io/calculator/)  
+- 📂 [Source Code](https://github.com/danialshuib/calculator)
 
+### ✅ To-Do List  
+A task management app with add/remove functionality.  
+- 🔗 [Live Demo](https://danialshuib.github.io/todo-list/)  
+- 📂 [Source Code](https://github.com/danialshuib/todo-list)
+
+### 🌐 Portfolio Website  
+My personal portfolio site (this repo).  
+- 🔗 [Live Demo](https://danialshuib.github.io/portfolio/)  
+- 📂 [Source Code](https://github.com/danialshuib/portfolio)
+
+---
+
+## 📬 Contact Me
+
+- Email: [danial@email.com](mailto:danial@email.com)  
+- GitHub: [@danialshuib](https://github.com/danialshuib)
 
 ---
 
