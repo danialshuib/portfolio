@@ -33,7 +33,7 @@ My personal portfolio site (this repo).
 
 - Email: [dnlshuib@email.com](mailto:dnlshuib@email.com)  
 - GitHub: [@danialshuib](https://github.com/danialshuib)
-
+- LinkedIn: (https://www.linkedin.com/in/danialshuib/)
 ---
 
 © 2025 Danial Shuib. All rights reserved.
