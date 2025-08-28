@@ -19,8 +19,8 @@ A simple web-based calculator built with Python.
 
 ### ✅ To-Do List  
 A task management app with add/remove functionality.  
-- 🔗 [Live Demo](https://danialshuib.github.io/todo-list/)  
-- 📂 [Source Code](https://github.com/danialshuib/todo-list)
+- 🔗 [Live Demo](https://danialshuib.github.io/todo-app/)  
+- 📂 [Source Code](https://github.com/danialshuib/todo-app)
 
 ### 🌐 Portfolio Website  
 My personal portfolio site (this repo).  
